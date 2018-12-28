@@ -7,6 +7,7 @@
 body {
   font-family: Helvetica;
   font-size: 100%;
+  color: #14323E; /*dark blue*/
 }
 
 h1 {
@@ -20,7 +21,7 @@ p {
 
 .menu-section {
   border: 1px solid black;
-  background-color: gray;
+  background-color: #F5F5F5; /*light gray*/
   margin: 10px;
   position: relative;
 }
@@ -42,15 +43,15 @@ p {
 }
 
 #menu-section-1 {
-  background-color: yellow;
+  background-color: #C7D78C; /*light yellow-green*/
 }
 
 #menu-section-2 {
-  background-color: blue;
+  background-color: #ADD293; /*light green*/
 }
 
 #menu-section-3 {
-  background-color: green;
+  background-color: #8DB8C8; /*light blue*/
 }
 
 /* Simple Responsive Framework. */
