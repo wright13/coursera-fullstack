@@ -1,7 +1,31 @@
-.menu-tile{
-	background-color: gray;
+nav{
+	background-color: #0B223C;
+}
+
+a.navbar-brand{
+	color: #A6D24D;
+}
+
+button.navbar-toggler{
+	border-color: none;
+}
+
+h3#menu-header{
+	color: #0B223C;
+}
+
+div.menu-tile{
+	background-color: #F0F0F0;
 	padding: 15px;
 	margin-bottom: 15px;
+}
+
+div.menu-tile p{
+	color: #1B2127;
+}
+
+div.menu-tile h3{
+	color: #8DBC2F;
 }
 
 #menu-header{
@@ -14,5 +38,5 @@ a.link-top, a.link-top:hover{
 }
 
 a.link-top{
-	color: ;
+	color: #2878D4;
 }
