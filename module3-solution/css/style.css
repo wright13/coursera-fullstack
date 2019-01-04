@@ -1,10 +1,13 @@
 body{
 	font-family: 'Roboto', sans-serif;
 }
+/*Headers and navbar brand*/
 h1, h2, h3, .navbar-custom .navbar-brand{
     font-family: 'Archivo Black', sans-serif;
 }
 
+/*-------Navbar--------*/
+.navbar-custom{
 	background-color: #0B223C;
 }
 
@@ -21,6 +24,11 @@ h1, h2, h3, .navbar-custom .navbar-brand{
 	background-color: #AFD16B;
 	color: #081F3B;
 }
+/*-------End Navbar-------*/
+
+/*--------Main-------*/
+h2#menu-header{
+	margin: 1.5rem;
 	color: #0B223C;
 }
 
@@ -38,11 +46,7 @@ div.menu-tile h3{
 	color: #8DBC2F;
 }
 
-#menu-header{
-	margin: 20px;
-	margin-bottom: 40px;
-}
-
+/*Links to top of page*/
 a.link-top, a.link-top:hover{
 	text-decoration: none;
 	font-style: italic;
@@ -51,3 +55,8 @@ a.link-top, a.link-top:hover{
 a.link-top{
 	color: #2878D4;
 }
+
+a.link-top:hover{
+	color: #5C9AE0;
+}
+/*-------End Main-------*/
