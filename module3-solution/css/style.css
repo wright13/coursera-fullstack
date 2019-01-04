@@ -1,4 +1,10 @@
-nav{
+body{
+	font-family: 'Roboto', sans-serif;
+}
+h1, h2, h3, .navbar-custom .navbar-brand{
+    font-family: 'Archivo Black', sans-serif;
+}
+
 	background-color: #0B223C;
 }
 
@@ -39,6 +45,7 @@ div.menu-tile h3{
 
 a.link-top, a.link-top:hover{
 	text-decoration: none;
+	font-style: italic;
 }
 
 a.link-top{
