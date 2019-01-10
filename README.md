@@ -2,7 +2,7 @@
 
 This repository contains my notes and assignments from the Coursera course HTML, CSS, and Javascript for Web Developers. Below is a summary of the contents of this repository, with links to completed assignments and the original assignment specifications.
 
-### [Module 5 Assignment](https://wright13.github.io/coursera-fullstack/module5-solution/index.html)
+### [Module 5 Assignment](https://wright13.github.io/coursera-fullstack/module5-solution/)
 Given starter code for a restaurant web application, use AJAX to asynchronously fetch main page content and modify the "Specials" tile to link to menu items from a randomly set category.
 See the full assignment description [here](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md).
 
